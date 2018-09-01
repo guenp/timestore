@@ -1,0 +1,5 @@
+pytest
+dataclasses
+psycopg2
+numpy
+pytz
